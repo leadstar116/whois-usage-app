@@ -1,0 +1,21 @@
+<!doctype html><html lang=en>
+<body>
+
+
+<script type='text/javascript'>
+function httpGet(theUrl)
+  {
+    var xmlHttp = null;
+
+    xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false );
+    xmlHttp.send( null );
+    return xmlHttp.responseText;
+  }
+
+var c = httpGet("datasource.php?unsubscribe="+window.location.search.replace("?",""));
+console.debug(c);
+if(c)document.write("successfully unsubscribed");
+</script>
+
+</body>

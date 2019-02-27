@@ -1,0 +1,127 @@
+[
+    {
+        "name": "novutec/domainparser",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/3name/DomainParser.git",
+            "reference": "8de466e0f3d85e90a363f61efd1eea03559ece04"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/3name/DomainParser/zipball/8de466e0f3d85e90a363f61efd1eea03559ece04",
+            "reference": "8de466e0f3d85e90a363f61efd1eea03559ece04",
+            "shasum": ""
+        },
+        "require": {
+            "ext-pcre": "*",
+            "php": ">=5.6.0"
+        },
+        "time": "2016-06-16 19:33:43",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "Parser.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "description": "A domain name parser to parse and to validate a domain name.",
+        "homepage": "https://github.com/3name/DomainParser/",
+        "keywords": [
+            "domain",
+            "domainparser",
+            "php"
+        ]
+    },
+    {
+        "name": "novutec/whoisparser",
+        "version": "3.2.5",
+        "version_normalized": "3.2.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/3name/WhoisParser.git",
+            "reference": "2ee23c2f6e108916448e6d9e356e831c6b4a927c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/3name/WhoisParser/zipball/2ee23c2f6e108916448e6d9e356e831c6b4a927c",
+            "reference": "2ee23c2f6e108916448e6d9e356e831c6b4a927c",
+            "shasum": ""
+        },
+        "require": {
+            "novutec/domainparser": ">=2.0.3"
+        },
+        "time": "2016-02-24 08:35:46",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Novutec\\WhoisParser\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "description": "Lookup domain names, IP addresses and AS numbers by WHOIS.",
+        "homepage": "https://github.com/3name/WhoisParser/",
+        "keywords": [
+            "php",
+            "whois",
+            "whoisparser"
+        ]
+    },
+    {
+        "name": "zsbt/misc",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ZsBT/php-misc.git",
+            "reference": "0b61a11f4b2a6e40704c346d0bbea2be51087222"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ZsBT/php-misc/zipball/0b61a11f4b2a6e40704c346d0bbea2be51087222",
+            "reference": "0b61a11f4b2a6e40704c346d0bbea2be51087222",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2016-11-16 13:24:06",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "ZsBT\\misc\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "WTFYWT"
+        ],
+        "authors": [
+            {
+                "name": "Zsombor",
+                "role": "owner"
+            }
+        ],
+        "description": "Misc PHP features for everyday coding",
+        "homepage": "https://github.com/ZsBT/php-misc",
+        "keywords": [
+            "Fingerprint",
+            "cache",
+            "lockfile",
+            "log",
+            "nist",
+            "paypal",
+            "pdo"
+        ]
+    }
+]

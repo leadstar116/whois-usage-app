@@ -1,0 +1,24 @@
+2019-02-24 02:51:25 INFO inspecting whatsmyipaddress.net 
+2019-02-24 02:51:25 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 DEBUG candidateAssistant(whatsmyipaddress.net)=[] [dis.class.php:154] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 WARN no assistants left for whatsmyipaddress.net 
+2019-02-24 02:51:25 DEBUG got no whois data for whatsmyipaddress.net [dis.class.php:256] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 ERROR whatsmyipaddress.net could not be processed [dis.class.php:342] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 DEBUG false [dis.class.php:343] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 INFO inspecting 360builders.com.au 
+2019-02-24 02:51:25 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 DEBUG candidateAssistant(360builders.com.au)=[] [dis.class.php:154] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 WARN no assistants left for 360builders.com.au 
+2019-02-24 02:51:25 DEBUG got no whois data for 360builders.com.au [dis.class.php:256] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 ERROR 360builders.com.au could not be processed [dis.class.php:342] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 DEBUG false [dis.class.php:343] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 INFO inspecting barcodedkeyrings.com.au 
+2019-02-24 02:51:25 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[] [dis.class.php:154] [dis.class.php:167] [dis.class.php:253] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 WARN no assistants left for barcodedkeyrings.com.au 
+2019-02-24 02:51:25 DEBUG got no whois data for barcodedkeyrings.com.au [dis.class.php:256] [dis.class.php:335] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 ERROR barcodedkeyrings.com.au could not be processed [dis.class.php:342] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 
+2019-02-24 02:51:25 DEBUG false [dis.class.php:343] [PDO.php:94] [dis.class.php:347] [dis-task.php:20] 

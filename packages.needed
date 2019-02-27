@@ -1,0 +1,2 @@
+master: php5-cli php5-sqlite php-mbstring 
+slaves: php5-cli php-mbstring 

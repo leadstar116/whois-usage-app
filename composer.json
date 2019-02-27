@@ -1,0 +1,7 @@
+{
+"minimum-stability":"dev",
+    "require": {
+        "zsbt/misc": "dev-master"
+        ,"novutec/WhoisParser": "^3.2"
+    }
+}

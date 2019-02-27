@@ -1,0 +1,1046 @@
+2019-02-26 09:09:58 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:09:58 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:09:58 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:09:58 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"3","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:09:58 DEBUG 3 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:09:58 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:09:58 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:09:58 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:10:00 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:10:00 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:13:56 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:13:56 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:13:56 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:13:56 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:13:56 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:13:56 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:13:56 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:13:56 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:21:45 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:21:45 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:21:45 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:21:45 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:21:45 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:21:45 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:21:45 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:21:45 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:22:41 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:22:41 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:22:41 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:22:41 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:22:41 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:22:41 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:22:41 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:22:41 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:24:16 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:24:16 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:24:16 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:24:16 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:24:16 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:24:16 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:24:16 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:24:16 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:25:47 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:25:47 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:25:47 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:25:47 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:25:47 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:25:47 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:25:47 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:25:47 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:36 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:27:36 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:36 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:36 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:36 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:36 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:36 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:27:36 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:46 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:27:46 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:46 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:46 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:46 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:46 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:46 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:27:46 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:56 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:27:56 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:56 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:56 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:56 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:56 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:27:56 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:27:56 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 09:28:17 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:28:17 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:17 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:17 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:17 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:17 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:17 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:28:17 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:27 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:28:27 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:27 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:27 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:27 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:27 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:27 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:28:27 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:58 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:28:58 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:58 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:58 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:58 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:58 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:28:58 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:28:58 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:14 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:29:14 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:14 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:14 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:14 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:14 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:14 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:29:14 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:22 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:29:22 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:22 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:22 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:22 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:22 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:22 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:29:22 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:33 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:29:33 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:33 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:33 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:33 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:33 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:29:33 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:29:33 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:06 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:30:06 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:06 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:06 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:06 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:06 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:06 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:30:06 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:25 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:30:25 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:25 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:25 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:25 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:25 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:25 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:30:25 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:36 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:30:36 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:36 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:36 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:36 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:36 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:36 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:30:36 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:48 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:30:48 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:48 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:48 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:48 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:48 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:30:48 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:30:48 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:10 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:32:10 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:10 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:10 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:10 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:10 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:10 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:32:10 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:25 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:32:25 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:25 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:25 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:25 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:25 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:32:25 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:32:25 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:36 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:33:36 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:36 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:36 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:36 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:36 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:36 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:33:36 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:55 INFO inspecting whatsmyipaddress.net 
+2019-02-26 09:33:55 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:55 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:55 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:55 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:55 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 09:33:55 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 09:33:55 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:339] [PDO.php:94] [dis.class.php:351] [dis-task.php:20] 
+2019-02-26 18:43:52 DEBUG table/view v_pending queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 18:43:52 DEBUG table/view v_discarded queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 18:43:52 DEBUG table/view tblTargetCompany queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 18:43:52 DEBUG table/view v_prospects queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 18:43:52 DEBUG table/view v_contacted queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 10:37:32 INFO inspecting whatsmyipaddress.net 
+2019-02-26 10:37:32 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:37:32 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:37:32 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:37:32 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:37:32 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:37:32 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 10:37:32 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:40:41 INFO inspecting whatsmyipaddress.net 
+2019-02-26 10:40:41 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:40:41 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:40:41 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:40:41 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:40:41 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:40:41 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 10:40:41 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:46:48 INFO inspecting 360builders.com.au 
+2019-02-26 10:46:48 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:46:48 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:46:48 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"2","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:46:48 DEBUG 2 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:46:48 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:46:48 INFO query 360builders.com.au using host localhost 
+2019-02-26 10:46:49 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:47:29 INFO inspecting 360builders.com.au 
+2019-02-26 10:47:29 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:47:29 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:47:29 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"2","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:47:29 DEBUG 2 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:47:29 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 10:47:29 INFO query 360builders.com.au using host localhost 
+2019-02-26 10:47:29 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 11:02:57 INFO inspecting whatsmyipaddress.net 
+2019-02-26 11:02:58 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 11:02:58 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 11:02:58 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 11:02:58 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 11:02:58 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 11:02:58 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 11:02:58 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:256] [dis.class.php:340] [PDO.php:94] [dis.class.php:352] [dis-task.php:20] 
+2019-02-26 11:50:27 INFO inspecting whatsmyipaddress.net 
+2019-02-26 11:50:27 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:27 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:27 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:27 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:27 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:27 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 11:50:27 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 11:50:28","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:311] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 INFO whatsmyipaddress.net is processed 
+2019-02-26 11:50:28 INFO inspecting 360builders.com.au 
+2019-02-26 11:50:28 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"2","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 DEBUG 2 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:28 INFO query 360builders.com.au using host localhost 
+2019-02-26 11:50:28 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 11:50:29","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:311] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 INFO 360builders.com.au is processed 
+2019-02-26 11:50:29 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 11:50:29 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"3","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 DEBUG 3 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 11:50:29 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:29 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 11:50:42 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:42 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:42 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 11:50:42","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:311] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:50:42 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 11:51:32 INFO inspecting whatsmyipaddress.net 
+2019-02-26 11:51:32 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:51:32 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:51:32 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"5","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:51:32 DEBUG 5 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:51:32 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:51:32 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 11:51:32 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 11:51:33 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 21:59:23 DEBUG table/view v_pending queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 21:59:23 DEBUG table/view v_prospects queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 21:59:23 DEBUG table/view tblTargetCompany queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 21:59:23 DEBUG table/view v_discarded queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 21:59:23 DEBUG table/view v_contacted queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 13:01:56 INFO inspecting 360builders.com.au 
+2019-02-26 13:01:56 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:01:56 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:01:56 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"4","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:01:56 DEBUG 4 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:01:56 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:01:56 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:01:56 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:01:57 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 INFO inspecting 360builders.com.au 
+2019-02-26 13:02:25 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"5","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 DEBUG 5 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:02:25 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:25 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"D","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:02:25","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:311] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:26 INFO 360builders.com.au is processed 
+2019-02-26 13:02:26 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:02:26 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:26 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:26 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"6","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:26 DEBUG 6 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:26 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:26 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:02:26 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:02:26 INFO we are too fast, waiting for 11 seconds 
+2019-02-26 13:03:10 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:03:11 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:11 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:11 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"6","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:11 DEBUG 6 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:11 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:11 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:03:11 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":" ","RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:03:12","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:311] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:03:12 INFO inspecting 360builders.com.au 
+2019-02-26 13:03:12 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"6","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 DEBUG 6 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:12 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:03:12 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"D","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:03:13","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:311] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 INFO 360builders.com.au is processed 
+2019-02-26 13:03:13 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:03:13 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"7","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 DEBUG 7 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:03:13 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:13 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:03:26 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:26 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:26 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"D","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:03:26","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:311] [dis.class.php:337] [PDO.php:94] [dis.class.php:349] [dis-task.php:20] 
+2019-02-26 13:03:26 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 22:04:04 DEBUG table/view v_pending queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:04:04 DEBUG table/view v_prospects queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:04:04 DEBUG table/view v_contacted queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:04:04 DEBUG table/view v_discarded queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:04:04 DEBUG table/view tblTargetCompany queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 13:05:10 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:05:10 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:10 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:10 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"7","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:10 DEBUG 7 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:10 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:10 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:05:10 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":" ","RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:05:11","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:312] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:05:11 INFO inspecting 360builders.com.au 
+2019-02-26 13:05:11 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"8","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 DEBUG 8 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:11 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:05:11 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"D","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:05:12","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:312] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 INFO 360builders.com.au is processed 
+2019-02-26 13:05:12 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:05:12 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"9","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 DEBUG 9 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:05:12 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:12 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:05:25 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:25 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:25 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"D","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:05:25","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:312] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:05:25 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:10:04 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:10:04 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:04 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:04 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"8","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:04 DEBUG 8 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:04 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:04 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:10:04 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":" ","RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:10:06","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:312] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:10:06 INFO inspecting 360builders.com.au 
+2019-02-26 13:10:06 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"10","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 DEBUG 10 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:06 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:10:06 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"D","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:10:07","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:312] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 INFO 360builders.com.au is processed 
+2019-02-26 13:10:07 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:10:07 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"11","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 DEBUG 11 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:10:07 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:338] [PDO.php:94] [dis.class.php:350] [dis-task.php:20] 
+2019-02-26 13:10:07 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:20:05 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:20:05 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:05 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:05 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"11","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:05 DEBUG 11 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:05 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:05 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:20:05 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:06 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:06 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:06 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Nerida Farmer\nTech Co","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:20:06","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:319] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:06 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:20:37 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:20:37 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:37 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:37 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"9","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:37 DEBUG 9 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:37 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:37 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:20:37 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"ADDRESS.NET\n   Registry Domai","RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:20:38","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:319] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:20:38 INFO inspecting 360builders.com.au 
+2019-02-26 13:20:38 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"12","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 DEBUG 12 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:38 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:20:38 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Paul Mcphillips\nTech Co","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:20:39","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:319] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 INFO 360builders.com.au is processed 
+2019-02-26 13:20:39 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:20:39 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"13","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 DEBUG 13 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:20:39 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:39 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:20:52 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:52 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:52 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Nerida Farmer\nTech Co","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:20:52","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:319] [dis.class.php:345] [PDO.php:94] [dis.class.php:357] [dis-task.php:20] 
+2019-02-26 13:20:52 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 22:21:06 DEBUG table/view v_pending queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:21:06 DEBUG table/view v_prospects queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:21:06 DEBUG table/view v_contacted queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:21:06 DEBUG table/view v_discarded queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:21:06 DEBUG table/view tblTargetCompany queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 13:22:39 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:22:39 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:39 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:39 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"10","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:39 DEBUG 10 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:39 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:39 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:22:39 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"ADDRESS.NET\n   Registry Domai","RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:22:42","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:22:42 INFO inspecting 360builders.com.au 
+2019-02-26 13:22:42 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"14","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG 14 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:22:42 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:22:42","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 INFO 360builders.com.au is processed 
+2019-02-26 13:22:42 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:22:42 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"15","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG 15 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:22:42 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:42 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:22:55 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:55 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:55 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:22:55","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:22:55 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:23:25 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:23:25 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:25 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:25 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"11","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:25 DEBUG 11 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:25 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:25 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:23:25 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:23:26","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:23:26 INFO inspecting 360builders.com.au 
+2019-02-26 13:23:26 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"16","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 DEBUG 16 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:26 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:23:26 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Paul Mcphillips\nTech Co","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:23:27","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 INFO 360builders.com.au is processed 
+2019-02-26 13:23:27 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:23:27 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"17","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 DEBUG 17 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:23:27 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:27 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:23:40 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:40 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:40 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Nerida Farmer\nTech Co","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:23:40","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:23:40 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:24:46 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:24:46 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:46 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:46 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"12","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:46 DEBUG 12 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:46 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:46 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:24:46 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:24:48","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:24:48 INFO inspecting 360builders.com.au 
+2019-02-26 13:24:48 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"18","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG 18 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:24:48 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Paul Mcphillips\nTech Co","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:24:48","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 INFO 360builders.com.au is processed 
+2019-02-26 13:24:48 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:24:48 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"19","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG 19 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:24:48 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:24:48 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:27:11 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:27:11 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:11 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:11 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"13","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:11 DEBUG 13 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:11 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:11 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:27:11 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:27:13","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:27:13 INFO inspecting 360builders.com.au 
+2019-02-26 13:27:13 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"19","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 DEBUG 19 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:13 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:27:13 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Paul Mcphillips\nTech Co","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:27:14","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:321] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 INFO 360builders.com.au is processed 
+2019-02-26 13:27:14 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:27:14 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"20","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 DEBUG 20 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:27:14 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:347] [PDO.php:94] [dis.class.php:359] [dis-task.php:20] 
+2019-02-26 13:27:14 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:27:37 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:27:37 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:37 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:37 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"20","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:37 DEBUG 20 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:37 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:37 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:27:37 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:38 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:38 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:38 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Nerida Farmer\nTech Co","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:27:38","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:27:38 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:28:38 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:28:38 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:38 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:38 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"14","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:38 DEBUG 14 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:38 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:38 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:28:38 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:28:39","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:28:39 INFO inspecting 360builders.com.au 
+2019-02-26 13:28:39 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"21","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 DEBUG 21 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:39 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:28:39 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Paul","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:28:40","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 INFO 360builders.com.au is processed 
+2019-02-26 13:28:40 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:28:40 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"22","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 DEBUG 22 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:28:40 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:28:40 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:29:06 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:29:06 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:06 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:06 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"22","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:06 DEBUG 22 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:06 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:06 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:29:06 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:07 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:07 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:07 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Nerida","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:29:07","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:07 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:29:52 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:29:52 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:52 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:52 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"15","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:52 DEBUG 15 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:52 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:52 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:29:52 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:29:53","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:29:53 INFO inspecting 360builders.com.au 
+2019-02-26 13:29:53 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"23","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 DEBUG 23 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:53 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:29:53 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":"Paul","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:29:54","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 INFO 360builders.com.au is processed 
+2019-02-26 13:29:54 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:29:54 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"24","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 DEBUG 24 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:29:54 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:29:54 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:31:04 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:31:04 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:04 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:04 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"24","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:04 DEBUG 24 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:04 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:04 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:31:04 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:06 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:06 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:06 WARN no values from whois.audns.net.au (#1). WHOIS LIMIT EXCEEDED 
+2019-02-26 13:31:06 DEBUG wi: {"template":{"whois.audns.net.au":"au"}} [dis.class.php:299] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:06 DEBUG whois2table(barcodedkeyrings.com.au)=false [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:06 ERROR barcodedkeyrings.com.au could not be processed [dis.class.php:355] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:06 DEBUG false [dis.class.php:356] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:28 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:31:29 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:29 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:29 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"16","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:29 DEBUG 16 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:29 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:29 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:31:29 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:31:30","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:31:30 INFO inspecting 360builders.com.au 
+2019-02-26 13:31:30 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"25","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG 25 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:31:30 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 WARN no values from whois.audns.net.au (#1). WHOIS LIMIT EXCEEDED 
+2019-02-26 13:31:30 DEBUG wi: {"template":{"whois.audns.net.au":"au"}} [dis.class.php:299] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG whois2table(360builders.com.au)=false [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 ERROR 360builders.com.au could not be processed [dis.class.php:355] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG false [dis.class.php:356] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:31:30 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"26","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG 26 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:31:30 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:30 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:31:43 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:43 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:43 WARN no values from whois.audns.net.au (#1). WHOIS LIMIT EXCEEDED 
+2019-02-26 13:31:43 DEBUG wi: {"template":{"whois.audns.net.au":"au"}} [dis.class.php:299] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:43 DEBUG whois2table(barcodedkeyrings.com.au)=false [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:43 ERROR barcodedkeyrings.com.au could not be processed [dis.class.php:355] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:31:43 DEBUG false [dis.class.php:356] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:46 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:32:46 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:46 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:46 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"17","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:46 DEBUG 17 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:46 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:46 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:32:46 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:32:47","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:32:47 INFO inspecting 360builders.com.au 
+2019-02-26 13:32:47 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"27","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 DEBUG 27 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:47 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:32:47 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 WARN no values from whois.audns.net.au (#1). WHOIS LIMIT EXCEEDED 
+2019-02-26 13:32:48 DEBUG wi: {"template":{"whois.audns.net.au":"au"}} [dis.class.php:299] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 DEBUG whois2table(360builders.com.au)=false [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 ERROR 360builders.com.au could not be processed [dis.class.php:355] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 DEBUG false [dis.class.php:356] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:32:48 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"28","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 DEBUG 28 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:32:48 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:32:48 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:33:00 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:33:00 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:33:00 WARN no values from whois.audns.net.au (#1). WHOIS LIMIT EXCEEDED 
+2019-02-26 13:33:00 DEBUG wi: {"template":{"whois.audns.net.au":"au"}} [dis.class.php:299] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:33:00 DEBUG whois2table(barcodedkeyrings.com.au)=false [dis.class.php:322] [dis.class.php:348] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:33:00 ERROR barcodedkeyrings.com.au could not be processed [dis.class.php:355] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:33:00 DEBUG false [dis.class.php:356] [PDO.php:94] [dis.class.php:360] [dis-task.php:20] 
+2019-02-26 13:40:31 INFO inspecting 360builders.com.au 
+2019-02-26 13:40:31 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:31 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:31 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"29","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:31 DEBUG 29 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:31 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:31 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:40:31 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 WARN no values from whois.audns.net.au (#1). WHOIS LIMIT EXCEEDED 
+2019-02-26 13:40:34 DEBUG wi: {"template":{"whois.audns.net.au":"au"}} [dis.class.php:306] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 DEBUG whois2table(360builders.com.au)=false [dis.class.php:329] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 ERROR 360builders.com.au could not be processed [dis.class.php:362] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 DEBUG false [dis.class.php:363] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:40:34 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"30","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 DEBUG 30 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:40:34 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:34 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:40:47 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:47 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:47 WARN no values from whois.audns.net.au (#1). WHOIS LIMIT EXCEEDED 
+2019-02-26 13:40:47 DEBUG wi: {"template":{"whois.audns.net.au":"au"}} [dis.class.php:306] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:47 DEBUG whois2table(barcodedkeyrings.com.au)=false [dis.class.php:329] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:47 ERROR barcodedkeyrings.com.au could not be processed [dis.class.php:362] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:40:47 DEBUG false [dis.class.php:363] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:31 INFO inspecting 360builders.com.au 
+2019-02-26 13:41:31 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:31 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:31 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"31","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:31 DEBUG 31 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:31 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:31 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:41:31 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:35 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:41:36","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:329] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 INFO 360builders.com.au is processed 
+2019-02-26 13:41:36 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:41:36 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"32","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 DEBUG 32 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:41:36 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:36 INFO we are too fast, waiting for 11 seconds 
+2019-02-26 13:41:47 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:47 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:47 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:41:47","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:329] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 13:41:47 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:42:26 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:42:26 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:26 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:26 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"18","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:26 DEBUG 18 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:26 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:26 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:42:26 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:42:29","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:331] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:42:29 INFO inspecting 360builders.com.au 
+2019-02-26 13:42:29 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"33","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG 33 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:42:29 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG whois2table(360builders.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:42:29","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:331] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 INFO 360builders.com.au is processed 
+2019-02-26 13:42:29 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:42:29 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"34","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG 34 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:42:29 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:29 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:42:42 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:42 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:42 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:42:42","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:331] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:42:42 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:43:16 INFO inspecting whatsmyipaddress.net 
+2019-02-26 13:43:16 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:16 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:16 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"19","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:16 DEBUG 19 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:16 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:16 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 13:43:16 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 13:43:20","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:331] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 INFO whatsmyipaddress.net is processed 
+2019-02-26 13:43:20 INFO inspecting 360builders.com.au 
+2019-02-26 13:43:20 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"35","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG 35 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 INFO query 360builders.com.au using host localhost 
+2019-02-26 13:43:20 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG whois2table(360builders.com.au)={"Registrant":"MARKETING MATCH PTY ","EligibilityID":null,"RegistrantContactName":"Paul Mcphillips","RegistrantContactEmail":null,"Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"2","NameserverID":"2","TargetCompanyID":"3","ProcessedDateTime":"2019-02-26 13:43:20","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:331] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 INFO 360builders.com.au is processed 
+2019-02-26 13:43:20 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:43:20 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"36","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG 36 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:43:20 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:20 INFO we are too fast, waiting for 12 seconds 
+2019-02-26 13:43:33 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:33 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:33 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":"Nerida Farmer","EligibilityID":null,"RegistrantContactName":"Nerida Farmer","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"4","ProcessedDateTime":"2019-02-26 13:43:33","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:331] [dis.class.php:357] [PDO.php:94] [dis.class.php:369] [dis-task.php:20] 
+2019-02-26 13:43:33 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 13:44:05 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 13:44:05 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:05 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:05 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"37","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:05 DEBUG 37 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:05 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:05 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 13:44:05 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:06 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:06 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:06 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":"Nerida Farmer","EligibilityID":null,"RegistrantContactName":"Nerida Farmer","RegistrantContactEmail":null,"Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"4","ProcessedDateTime":"2019-02-26 13:44:06","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:332] [dis.class.php:358] [PDO.php:94] [dis.class.php:370] [dis-task.php:20] 
+2019-02-26 13:44:06 INFO barcodedkeyrings.com.au is processed 
+2019-02-26 22:44:18 DEBUG table/view v_prospects queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:44:18 DEBUG table/view v_discarded queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:44:18 DEBUG table/view tblTargetCompany queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:44:18 DEBUG table/view v_pending queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:44:18 DEBUG table/view v_contacted queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:47:56 DEBUG table/view v_pending queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:47:56 DEBUG table/view v_discarded queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:47:56 DEBUG table/view v_prospects queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:47:56 DEBUG table/view tblTargetCompany queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:47:56 DEBUG table/view v_contacted queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:01:30 INFO inspecting whatsmyipaddress.net 
+2019-02-26 22:01:31 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:31 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:31 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"20","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:31 DEBUG 20 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:31 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:31 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 22:01:31 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:33 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:33 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:266] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:33 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"","Phone":null,"TechName":null,"TechEmail":"Select Contact Domain Holder link at https:\/\/www.godaddy.com\/whois\/results.aspx?domain=WHATSMYIPADDRESS.NET","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 22:01:33","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:329] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:33 INFO whatsmyipaddress.net is processed 
+2019-02-26 22:01:33 INFO inspecting 360builders.com.au 
+2019-02-26 22:01:34 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:34 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:34 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"38","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:34 DEBUG 38 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:34 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:34 INFO query 360builders.com.au using host localhost 
+2019-02-26 22:01:34 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:35 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:35 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:35 DEBUG whois2table(360builders.com.au)={"Registrant":"MARKETING MATCH PTY ","EligibilityID":null,"RegistrantContactName":"Paul Mcphillips","RegistrantContactEmail":"","Phone":null,"TechName":"Paul Mcphillips","TechEmail":null,"TechPhone":null,"Domain":"360builders.com.au","MXID":"4","NameserverID":"2","TargetCompanyID":"3","ProcessedDateTime":"2019-02-26 22:01:35","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:329] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:35 INFO 360builders.com.au is processed 
+2019-02-26 22:01:35 INFO inspecting barcodedkeyrings.com.au 
+2019-02-26 22:01:37 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:37 ERROR could not find whoisserver for domain barcodedkeyrings.com.au! [dis.class.php:145] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:37 DEBUG candidateAssistant(barcodedkeyrings.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"39","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:169] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:37 DEBUG 39 >=? 99 [dis.class.php:177] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:37 DEBUG whois query barcodedkeyrings.com.au using assistant #1 [dis.class.php:183] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:37 INFO query barcodedkeyrings.com.au using host localhost 
+2019-02-26 22:01:37 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:201] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:37 INFO we are too fast, waiting for 10 seconds 
+2019-02-26 22:01:48 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:241] [dis.class.php:184] [dis.class.php:255] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:48 DEBUG whoisServerID(barcodedkeyrings.com.au)=1 [dis.class.php:58] [dis.class.php:266] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:48 DEBUG whois2table(barcodedkeyrings.com.au)={"Registrant":"Nerida Farmer","EligibilityID":null,"RegistrantContactName":"Nerida Farmer","RegistrantContactEmail":"","Phone":null,"TechName":"Nerida Farmer","TechEmail":null,"TechPhone":null,"Domain":"barcodedkeyrings.com.au","MXID":"3","NameserverID":"2","TargetCompanyID":"4","ProcessedDateTime":"2019-02-26 22:01:48","Changed":null,"Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:329] [dis.class.php:355] [PDO.php:94] [dis.class.php:367] [dis-task.php:20] 
+2019-02-26 22:01:48 INFO barcodedkeyrings.com.au is processed 
+2019-02-27 07:02:07 DEBUG table/view v_pending queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 07:02:07 DEBUG table/view tblTargetCompany queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 07:02:07 DEBUG table/view v_contacted queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 07:02:07 DEBUG table/view v_prospects queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 07:02:07 DEBUG table/view v_discarded queried <127.0.0.1>[datasource.php:140] 
+2019-02-26 22:03:24 INFO inspecting whatsmyipaddress.net 
+2019-02-26 22:03:24 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:142] [dis.class.php:167] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:24 ERROR could not find whoisserver for domain whatsmyipaddress.net! [dis.class.php:145] [dis.class.php:167] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:24 DEBUG candidateAssistant(whatsmyipaddress.net)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"21","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:167] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:24 DEBUG 21 >=? 99 [dis.class.php:175] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:24 DEBUG whois query whatsmyipaddress.net using assistant #1 [dis.class.php:181] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:24 INFO query whatsmyipaddress.net using host localhost 
+2019-02-26 22:03:24 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:199] [dis.class.php:182] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:239] [dis.class.php:182] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 DEBUG whoisServerID(whatsmyipaddress.net)=2 [dis.class.php:58] [dis.class.php:264] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 DEBUG whois2table(whatsmyipaddress.net)={"Registrant":null,"EligibilityID":null,"RegistrantContactName":null,"RegistrantContactEmail":"","Phone":null,"TechName":null,"TechEmail":"","TechPhone":null,"Domain":"whatsmyipaddress.net","MXID":"1","NameserverID":"1","TargetCompanyID":"2","ProcessedDateTime":"2019-02-26 22:03:27","Changed":"2016-03-30 13:30:56","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:327] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 INFO whatsmyipaddress.net is processed 
+2019-02-26 22:03:27 INFO inspecting 360builders.com.au 
+2019-02-26 22:03:27 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:142] [dis.class.php:167] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 ERROR could not find whoisserver for domain 360builders.com.au! [dis.class.php:145] [dis.class.php:167] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 DEBUG candidateAssistant(360builders.com.au)=[{"ID":"1","Hostname":"localhost","UserName":"root","hit":"40","dailyLimit":"99"}] [dis.class.php:154] [dis.class.php:167] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 DEBUG 40 >=? 99 [dis.class.php:175] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 DEBUG whois query 360builders.com.au using assistant #1 [dis.class.php:181] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:27 INFO query 360builders.com.au using host localhost 
+2019-02-26 22:03:27 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:199] [dis.class.php:182] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:28 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:239] [dis.class.php:182] [dis.class.php:253] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:28 DEBUG whoisServerID(360builders.com.au)=1 [dis.class.php:58] [dis.class.php:264] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:28 DEBUG whois2table(360builders.com.au)={"Registrant":"MARKETING MATCH PTY ","EligibilityID":null,"RegistrantContactName":"Paul Mcphillips","RegistrantContactEmail":"","Phone":null,"TechName":"Paul Mcphillips","TechEmail":"","TechPhone":null,"Domain":"360builders.com.au","MXID":"4","NameserverID":"2","TargetCompanyID":"3","ProcessedDateTime":"2019-02-26 22:03:28","Changed":"2019-02-13 00:45:08","Expiry":null,"is_google":false,"is_ms":false} [dis.class.php:327] [dis.class.php:353] [PDO.php:94] [dis.class.php:365] [dis-task.php:20] 
+2019-02-26 22:03:28 INFO 360builders.com.au is processed 
+2019-02-27 07:03:31 DEBUG table/view v_prospects queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 07:03:31 DEBUG table/view v_discarded queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 07:03:31 DEBUG table/view tblTargetCompany queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 07:03:31 DEBUG table/view v_contacted queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 07:03:31 DEBUG table/view v_pending queried <127.0.0.1>[datasource.php:140] 
+2019-02-27 13:41:52 INFO force process domains <127.0.0.1>
+2019-02-28 00:03:24 DEBUG table/view v_prospects queried <::1>[datasource.php:140] 
+2019-02-28 00:03:24 DEBUG table/view v_discarded queried <::1>[datasource.php:140] 
+2019-02-28 00:03:24 DEBUG table/view v_contacted queried <::1>[datasource.php:140] 
+2019-02-28 00:59:34 DEBUG table/view v_discarded queried <::1>[datasource.php:140] 
+2019-02-28 00:59:34 DEBUG table/view tblTargetCompany queried <::1>[datasource.php:140] 
+2019-02-28 00:59:34 DEBUG table/view v_contacted queried <::1>[datasource.php:140] 
+2019-02-28 00:59:34 DEBUG table/view v_pending queried <::1>[datasource.php:140] 
+2019-02-28 00:59:34 DEBUG table/view v_prospects queried <::1>[datasource.php:140] 
+2019-02-28 00:59:37 DEBUG table/view v_pending queried <::1>[datasource.php:140] 
+2019-02-28 00:59:37 DEBUG table/view v_prospects queried <::1>[datasource.php:140] 
+2019-02-28 00:59:37 DEBUG table/view v_contacted queried <::1>[datasource.php:140] 
+2019-02-28 00:59:37 DEBUG table/view tblTargetCompany queried <::1>[datasource.php:140] 
+2019-02-28 00:59:37 DEBUG table/view v_discarded queried <::1>[datasource.php:140] 

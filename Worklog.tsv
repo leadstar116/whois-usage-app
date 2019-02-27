@@ -1,0 +1,18 @@
+date	hrs	what
+2016-11-10	1	copy & clear design
+2016-11-13	3	GUI, background task
+2016-11-14	1	background task
+2016-11-15	1	whois rawdata parsing
+2016-11-15	1	edit & delete
+2016-11-17	3	remote ssh distribution
+2016-12-01	1	datatable width/height, search, hide, delete
+2016-12-15	--PAID--
+2017-01-15	3	svr-side code for dommon,add domains,pending
+2017-01-20	3	email templates
+2017-01-20	1	add/pending/prospective/discarded domains server side
+2017-01-28	2	mass email sending
+2017-02-01	1	mass email to popup
+2017-02-03	1	contacted domains, unsubscribed/discarded domains
+2018-05-22	1	change domain page labels, prospective domains as default tab
+2018-05-26	2	changes as requested on May 23
+2019-01-19	4	attachments in template

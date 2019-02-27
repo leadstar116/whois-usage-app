@@ -1,0 +1,420 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>RGB SOLUTIONS</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+        <link rel="stylesheet" href="css/bootstrap-select.min.css"/>
+        <link rel="stylesheet" href="css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="ediTable/bootstrap-table.min.css"/>
+        <link rel="stylesheet" href="ediTable/bootstrap-editable.css"/>
+        <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css"/>
+        <link rel="stylesheet" href="css/custom.css"/>
+        <link rel="stylesheet" href="css/dis2.css?v2"/>
+        <link rel="stylesheet" href="css/dropzone.css?v2"/>
+    </head>
+    <body>
+        <nav class="navbar navbar-default navbar-inverse noradius" id="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">
+                        <img class="img-responsive" src="images/logo.png"/>
+                    </a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav menu">
+                        <li>
+                            <a href="index.html" class="red">
+                                <img src="images/monitor-icon.png"/>DOMAIN MONITOR
+                            </a>
+                        </li>
+                        <li class="active">
+                            <a href="domain-prospects.html" class="green">
+                                <img src="images/domain-icon.png"/>DOMAIN PROSPECTS
+                            </a>
+                        </li>
+                        <li>
+                            <a href="client-database.html" class="blue">
+                                <img src="images/database-icon.png"/>CLIENT DATABASE
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);" class="gray">
+                                <img src="images/setting-icon.png"/>SETTINGS
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="javascript:void(0);">
+                                SIGN OUT <img src="images/signout-icon.png"/>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <main class="main-content domain-prospects-page">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="#tab1" onclick="tabsClick()" data-toggle="tab">Add Domains</a>
+                </li>
+                <li>
+                    <a href="#tab2" onclick="tabsClick()" data-toggle="tab">Pending Validation</a>
+                </li>
+                <li class=active >
+                    <a href="#tab3" onclick="tabsClick()" data-toggle="tab">Prospective Domains</a>
+                </li>
+                <li>
+                    <a href="#tab4" onclick="tabsClick()" data-toggle="tab">Contacted Domains</a>
+                </li>
+                <li>
+                    <a href="#tab5" onclick="tabsClick()" data-toggle="tab">Discarded/Unsubscribed</a>
+                </li>
+                <li>
+                    <a href="#tab6" onclick="tabsClick()" data-toggle="tab">Email Templates</a>
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+            <div class="tab-content">
+                <div class="tab-pane add-domaintab" id="tab1">
+                    <div class="container-fluid">
+                        <!--h2 class="heading">Add Domains</h2-->
+                    </div>
+                    <div class="container">
+                        <section>
+                            <h4 class="sb_head">Add Domains</h4>
+                            <form class="form-horizontal">
+                                <div class="form-group add-more">
+                                    <label class="control-label col-lg-2 col-md-2
+                                    col-sm-3">Hosting Provider</label>
+                                    <div class="col-lg-10 col-md-10 col-sm-9">
+                                        <select name=targethost class="form-control selectpicker noradius" data-style="noradius btn btn-ttc"></select>
+                                    </div>
+                                    <a action=add-domain title='add host provider' class="plus-icon" href="javascript:void(0);">
+                                        <img src="images/plus-icon.png"/>
+                                    </a>
+                                    <a action=remove-domain title='remove host provider' class="minus-icon" href="javascript:void(0);">
+                                        <img src="images/minus-icon.png"/>
+                                    </a>
+                                </div>
+                                <div class="form-group ">
+                                    <label class="control-label col-lg-2 col-md-2
+                                    col-sm-3">Hosting Providers URL</label>
+                                    <div class="col-lg-10 col-md-10 col-sm-9">
+                                        <input value="http://" class=form-control type=url name=url>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-lg-2 col-md-2
+                                    col-sm-3">Domain List</label>
+                                    <div class="col-lg-10 col-md-10 col-sm-9">
+                                        <textarea required=yes class="form-control  noradius" rows="12"></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group mb-0">
+                                    <div class="col-lg-10 col-md-10 col-sm-9 col-sm-offset-3 col-md-offset-2 col-lg-offset-2 text-center">
+                                        <button class="btn btn-success p-lr-30 noradius">Add</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </section>
+                    </div>
+                </div>
+                <div class="tab-pane pending-validation" id="tab2">
+                    <div class="container-fluid">
+                        <!--h2 class="heading">Pending Validation</h2-->
+                        <div class="row top_row">
+                            <div class="col-sm-6">
+                                <div class="btn-toolbar">
+                                    <div class="btn-group delete">
+                                        <a href="#" class="btn btn-danger noradius">Delete</a>
+                                    </div>
+                                    <div class="btn-group forceProcessDomains">
+                                        <a href="#" class="btn btn-success noradius">Process Domains</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <table class="table table-striped" 
+                    data-page-list="[25,50,100]"  data-page-size=25
+                    data-toggle=table data-url='datasource.php?table=v_pending' data-id-field="ID" data-editable-emptytext="(none)" ddata-striped=true data-pagination=true data-height=400 data-search=true data-show-toggle=true data-show-columns=true>
+                        <thead>
+                            <tr>
+                                <th data-checkbox=true></th>
+                                <th data-sortable=true data-formatter=dis.fmt.domain data-field=Domain>Domain</th>
+                                <th data-sortable=true data-field=StoreDateTime>Stored</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+                <div class="tab-pane prospective active" id="tab3">
+                    <div class="container-fluid prospective">
+                        <!--h2 class="heading">Prospective domains</h2-->
+                        <div class="row top_row">
+                            <div class="col-sm-6">
+                                <div class="btn-toolbar">
+                                    <div class="btn-group delete">
+                                        <a href="#" class="btn btn-danger noradius">Delete</a>
+                                    </div>
+<div class="btn-group">
+<a href="#" class="btn btn-success noradius" data-backdrop="static" 
+   data-keyboard="false" 
+ data-toggle="modal" data-target="#SendEmailModal">Send Email</a>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+<div id="SendEmailModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <!--button type="button" class="close" data-dismiss="modal">&times;</button-->
+        <h4 class="modal-title">Apply template to selected domains</h4>
+      </div>
+      <div class="modal-body">
+        <p><select class="form-control" id=pick-template >
+<option value="0">Pick an Email Template</option>
+                                    </select></p>
+      </div>
+      <div class="modal-footer">
+<button type=button class="btn btn-success emailTrigger">Send Emails</button>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+                    <table class="table table-striped" 
+                        data-page-list="[25,50,100]"  data-page-size=25 
+                        data-toggle=table data-url='datasource.php?table=v_prospects'
+                        data-id-field="ID" data-editable-emptytext="(none)" 
+                        data-editable-url="datasource.php?editable" ddata-striped=true 
+                        data-pagination=true data-height=400 
+                        data-search=true data-show-toggle=true 
+                        data-show-columns=true
+                    >
+                        <thead>
+                            <tr>
+                                <th data-checkbox=true></th>
+                                <th data-sortable=true data-formatter=dis.fmt.domain data-field=Domain>Domain</th>
+                                <th data-editable=true data-field=Registrant>Registrant</th>
+                                <th data-editable=true data-field=RegistrantContactName>Registrant Name</th>
+                                <th data-editable=true data-field=RegistrantContactEmail>Email</th>
+                                <th data-editable=true data-field=Phone>Phone</th>
+                                <th data-editable=true data-field=TechName>Tech Name</th>
+                                <th data-editable=true data-field=TechEmail>Tech Email</th>
+                                <th data-field=MXRecord>MX record</th>
+                                <th data-formatter=dis.fmt.date data-field=Changed>Changed</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+                <div class="tab-pane " id="tab4">
+                    <div class="container-fluid">
+                        <!--h2 class="heading">Contacted Domains</h2-->
+                        <div class="row top_row">
+                            <div class="col-sm-6">
+                                <div class="btn-toolbar">
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-danger noradius">Delete</a>
+                                    </div>
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-success noradius">Some button</a>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                    <table class="table table-striped contacted" 
+                        data-page-list="[25,50,100]"  data-page-size=25 
+                        data-toggle=table data-url='datasource.php?table=v_contacted'
+                        data-id-field="ID" data-editable-emptytext="(none)" 
+                        data-editable-url="datasource.php?editable" ddata-striped=true 
+                        data-pagination=true data-height=400 
+                        data-search=true data-show-toggle=true 
+                        data-show-columns=true
+                    >
+                        <thead>
+                            <tr>
+                                <th data-checkbox=true></th>
+                                <th data-sortable=true data-formatter=dis.fmt.domain data-field=Domain>Domain</th>
+                                <th data-field=Contacted>Contacted</th>
+                                <th data-field=Template>Template</th>
+                                <th data-editable=false data-field=Registrant>Registrant</th>
+                                <th data-editable=false data-field=RegistrantContactName>Registrant Name</th>
+                                <th data-editable=false data-field=RegistrantContactEmail>Email</th>
+                                <th data-editable=false data-field=Phone>Phone</th>
+                                <th data-editable=false data-field=TechName>Tech Name</th>
+                                <th data-editable=false data-field=TechEmail>Tech Email</th>
+                            </tr>
+                        </thead>
+                    </table>
+                            
+                        </div>
+                    </div>
+
+                </div>
+                <div class="tab-pane " id="tab5">
+                    <div class="container-fluid">
+                        <!--h2 class="heading">Discarded/Unsubscribed</h2-->
+                        <div class="row top_row">
+                            <div class="col-sm-6">
+                                <div class="btn-toolbar">
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-danger noradius">Delete</a>
+                                    </div>
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-success noradius">Some button</a>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <table class="table table-striped" 
+                    data-page-list="[25,50,100]"  data-page-size=25
+                    data-toggle=table data-url='datasource.php?table=v_discarded' data-id-field="ID" data-editable-emptytext="(none)" data-editable-url="datasource.php?editable" ddata-striped=true data-pagination=true data-height=400 data-search=true data-show-toggle=true data-show-columns=true>
+                        <thead>
+                            <tr>
+                                <th data-checkbox=true></th>
+                                <th data-sortable=true data-formatter=dis.fmt.domain data-field=Domain>Domain</th>
+                                <th data-field=Discarded>Discarded</th>
+                                <th data-field=Unsubscribed>Unsubscribed</th>
+                                <th data-editable=false data-field=Registrant>Registrant</th>
+                                <th data-editable=false data-field=RegistrantContactName>Registrant Name</th>
+                                <th data-editable=false data-field=RegistrantContactEmail>Email</th>
+                                <th data-editable=false data-field=Phone>Phone</th>
+                                <th data-editable=false data-field=TechName>Tech Name</th>
+                                <th data-editable=false data-field=TechEmail>Tech Email</th>
+                            </tr>
+                        </thead>
+                    </table>
+                    
+                </div>
+                <div class="tab-pane addtemplate-tab" id="tab6">
+                    <div id="templateDiv">
+                        <div class="container-fluid">
+                            <!--h2 class="heading">Email Templates</h2-->
+                            <div class="row top_row">
+                                <div class="col-sm-12">
+                                    <div class="btn-toolbar">
+                                        <div class="btn-group">
+                                            <a class="btn btn-success noradius add-template">Add Template</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- we have a template for the templates. Ha, ha!-->
+                        <template class="hidden email">
+                            <div class="col-sm-4 common">
+                                <div class="box editample">
+                                    <div class="box-header">
+                                        <h4 data-label="name" contenteditable="false">Name of New Template</h4>
+                                        <div>
+                                            <a title=Edit class=edit href="#">
+                                                <i class="fa fa-pencil-square-o"></i>
+                                            </a>
+                                            <a title=Delete class=delete href="#">
+                                                <i class="fa fa-trash-o"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="box-body">
+                                        <div class="innerheader">
+                                            <label>Subject</label>
+                                            <p data-label="subject" contenteditable="false">Subject of New Template</p>
+                                        </div>
+                                        <div class="innerbody">
+                                            <div data-label="content" class="content" contenteditable="false">
+                                                <p>You can use {URL} and {TARGET} fields to be replaced.
+                                                    </p>
+                                            </div>
+                                        </div>
+                                        <div>attachments</div>
+                                        <form
+                                        action="datasource.php?addattach=_ID_" class=dropzone id="dropattpl_ID_"
+                                        ></form>
+                                    </div>
+                                </div>
+                            </div>
+                        </template>
+                        <template class="hidden tplatt">
+                                <span class=tplatt>_NAME_ <span class=del
+                                title=delete>[X]</span></span>
+                        </template>
+                        <div class="container-fluid template-list">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <!--div class="add_templatediv" id="addTemplate" style="display:none">
+                        <div class="container-fluid">
+                            <h2 class="heading">
+                                <a href="javascript:void(0);" onclick="backTemplatList()">
+                                    <i class="fa fa-arrow-left"></i>
+                                    Add/Edit Email Template
+                                </a>
+                            </h2>
+                        </div>
+                        <div class="container">
+                            <section>
+                                <h4 class="sb_head">Add/Edit Email Template</h4>
+                                <form class="form-horizontal">
+                                    <div class="form-group">
+                                        <label class="control-label col-lg-2 col-md-2 col-sm-3">Name</label>
+                                        <div class="col-lg-10 col-md-10 col-sm-9">
+                                            <input type="text" class="form-control noradius"/>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="control-label col-lg-2 col-md-2 col-sm-3">Subject</label>
+                                        <div class="col-lg-10 col-md-10 col-sm-9">
+                                            <input type="text" class="form-control noradius"/>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="control-label col-lg-2 col-md-2 col-sm-3">Body</label>
+                                        <div class="col-lg-10 col-md-10 col-sm-9">
+                                            <textarea class="form-control  noradius" rows="12"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="form-group mb-0">
+                                        <div class="col-lg-10 col-md-10 col-sm-9 col-sm-offset-3 col-md-offset-2 col-lg-offset-2 text-center">
+                                            <button class="btn btn-success p-lr-30 noradius">Done</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </section>
+                        </div>
+                    </div-->
+                </div>
+            </div>
+        </main>
+        <script src="js/jquery-1.11.1.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/bootstrap-datepicker.js"></script>
+        <script src="js/designer.js"></script>
+        <script src="ediTable/bootstrap-editable.js"></script>
+        <script src="ediTable/bootstrap-table.min.js"></script>
+        <script src="ediTable/bootstrap-table-editable.js"></script>
+        <script src="js/dis2.js?v2"></script>
+        <script src="js/dis-prospect.js?v2"></script>
+        <script async src="js/dropzone.js"></script>
+    </body>
+</html>

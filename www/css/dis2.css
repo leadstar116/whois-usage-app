@@ -1,0 +1,40 @@
+
+.editample [contenteditable=true] {
+	background-color: yellow;
+	border: 1px dashed brown;
+}
+
+body {
+	max-width: 100%;
+    overflow-x: hidden;
+}
+
+hhtml {     overflow-y: hidden;
+}
+
+.minus-icon {
+	position:absolute;
+	right: -46px;
+	top:6px;
+}
+
+
+.dropzone {
+	border: 2px dashed #0000ff75;
+	min-height: 100px;
+	background-color: #caf8f5;
+	border-radius:  5px;
+}
+
+span.tplatt {
+    display: inline-block;
+    border-radius:  3px;
+    background-color: #0000ff61;
+    padding: 2px 0 2px 5px;
+    margin: 5px;
+}
+
+span.tplatt .del {
+    color: #a90303;
+    cursor: pointer;
+}

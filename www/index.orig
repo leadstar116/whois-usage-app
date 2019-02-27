@@ -1,0 +1,775 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>RGB SOLUTIONS</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">        
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+        <link rel="stylesheet" href="css/font-awesome.min.css" />
+        <link rel="stylesheet" href="css/custom.css" />        
+
+    </head>
+    <body>
+        <nav class="navbar navbar-default navbar-inverse noradius" id="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"><img class="img-responsive" src="images/logo.png" /></a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav menu">
+                        <li class="active"><a href="index.html" class="red"><img src="images/monitor-icon.png" /> DOMAIN MONITOR</a></li>
+                        <li><a href="domain-prospects.html" class="green"><img src="images/domain-icon.png" /> DOMAIN PROSPECTS</a></li>
+                        <li><a href="client-database.html" class="blue"><img src="images/database-icon.png" /> CLIENT DATABASE</a></li>
+                        <li><a href="javascript:void(0);" class="gray"><img src="images/setting-icon.png" /> SETTINGS</a></li>            
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">            
+                        <li><a href="javascript:void(0);">SIGN OUT <img src="images/signout-icon.png" /></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>        
+        <main class="main-content domain-page">
+
+            <ul class="nav navbar-nav">
+                <li class="active">
+                    <a href="#tab1" onclick="tabsClick()" data-toggle="tab">Dummy Tab 1</a>
+                </li>
+                <li>
+                    <a href="#tab2" onclick="tabsClick()" data-toggle="tab">Dummy Tab 2</a>
+                </li>
+                <li>
+                    <a href="#tab3" onclick="tabsClick()" data-toggle="tab">Dummy Tab 3</a>
+                </li>
+                <li>
+                    <a href="#tab4" onclick="tabsClick()" data-toggle="tab">Dummy Tab 4</a>
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+            <div class="tab-content">
+                <div class="tab-pane active" id="tab1">
+                    <div class="container-fluid">
+                        <h2 class="heading">Doman monitor</h2>
+                        <div class="row top_row">
+                            <div class="col-sm-6">
+                                <div class="btn-toolbar">
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-danger noradius">Delete</a>
+                                    </div>
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-success noradius">Some button</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 right">
+                                <div class="search">
+                                    <input type="text" placeholder="Search..." class="form-control" />
+                                </div>
+                                <ul class="list-inline">
+                                    <li><a href="#"><i class="fa fa-refresh"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-list-ul"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-sign-out"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="table-responsive table-height">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th><input type="checkbox" class="selectall" /></th>
+                                    <th>Domain name</th>
+                                    <th>Registrant</th>
+                                    <th>Registrant name</th>
+                                    <th>Email</th>
+                                    <th>Phone</th>
+                                    <th>Tech name</th>
+                                    <th>Tech email</th>
+                                    <th>MX records</th>                                        
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <nav class="paginations" id="bottom">
+                        <div class="row">
+                            <div class="col-sm-7 left">
+                                Showing 1 to 15 of 100 rows
+                                <select class="form-control">
+                                    <option>30</option>
+                                    <option>60</option>
+                                    <option>100</option>
+                                    <option>All</option>
+                                </select>        rows per page
+                            </div>
+                            <div class="col-sm-5 right">
+                                <ul class="pagination">
+                                    <li>
+                                        <a href="#" aria-label="Previous">
+                                            <span aria-hidden="true"><img src="images/prev-icon.jpg" /></span>
+                                        </a>
+                                    </li>
+                                    <li><a href="#">1</a></li>
+                                    <li><a href="#">2</a></li>
+                                    <li><a href="#">3</a></li>
+                                    <li><a href="#">4</a></li>
+                                    <li><a href="#">5</a></li>
+                                    <li>
+                                        <a href="#" aria-label="Next">
+                                            <span aria-hidden="true"><img src="images/next-icon.jpg" /></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav> 
+                </div>
+                <div class="tab-pane " id="tab2">
+                    <div class="container-fluid">
+                        <h2 class="heading">Dummy Tab 2</h2>
+                        <div class="row top_row">
+                            <div class="col-sm-6">
+                                <div class="btn-toolbar">
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-danger noradius">Delete</a>
+                                    </div>
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-success noradius">Some button</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 right">
+                                <div class="search">
+                                    <input type="text" placeholder="Search..." class="form-control" />
+                                </div>
+                                <ul class="list-inline">
+                                    <li><a href="#"><i class="fa fa-refresh"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-list-ul"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-sign-out"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="table-responsive table-height">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th><input type="checkbox" class="selectall" /></th>
+                                    <th>Domain name</th>
+                                    <th>Registrant</th>
+                                    <th>Registrant name</th>
+                                    <th>Email</th>
+                                    <th>Phone</th>
+                                    <th>Tech name</th>
+                                    <th>Tech email</th>
+                                    <th>MX records</th>                                        
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <nav class="paginations" id="bottom">
+                        <div class="row">
+                            <div class="col-sm-7 left">
+                                Showing 1 to 15 of 100 rows
+                                <select class="form-control">
+                                    <option>30</option>
+                                    <option>60</option>
+                                    <option>100</option>
+                                    <option>All</option>
+                                </select>        rows per page
+                            </div>
+                            <div class="col-sm-5 right">
+                                <ul class="pagination">
+                                    <li>
+                                        <a href="#" aria-label="Previous">
+                                            <span aria-hidden="true"><img src="images/prev-icon.jpg" /></span>
+                                        </a>
+                                    </li>
+                                    <li><a href="#">1</a></li>
+                                    <li><a href="#">2</a></li>
+                                    <li><a href="#">3</a></li>
+                                    <li><a href="#">4</a></li>
+                                    <li><a href="#">5</a></li>
+                                    <li>
+                                        <a href="#" aria-label="Next">
+                                            <span aria-hidden="true"><img src="images/next-icon.jpg" /></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav> 
+                </div>
+                <div class="tab-pane " id="tab3">
+                    <div class="container-fluid">
+                        <h2 class="heading">Dummy Tab 3</h2>
+                        <div class="row top_row">
+                            <div class="col-sm-6">
+                                <div class="btn-toolbar">
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-danger noradius">Delete</a>
+                                    </div>
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-success noradius">Some button</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 right">
+                                <div class="search">
+                                    <input type="text" placeholder="Search..." class="form-control" />
+                                </div>
+                                <ul class="list-inline">
+                                    <li><a href="#"><i class="fa fa-refresh"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-list-ul"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-sign-out"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="table-responsive table-height">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th><input type="checkbox" class="selectall" /></th>
+                                    <th>Domain name</th>
+                                    <th>Registrant</th>
+                                    <th>Registrant name</th>
+                                    <th>Email</th>
+                                    <th>Phone</th>
+                                    <th>Tech name</th>
+                                    <th>Tech email</th>
+                                    <th>MX records</th>                                        
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <nav class="paginations" id="bottom">
+                        <div class="row">
+                            <div class="col-sm-7 left">
+                                Showing 1 to 15 of 100 rows
+                                <select class="form-control">
+                                    <option>30</option>
+                                    <option>60</option>
+                                    <option>100</option>
+                                    <option>All</option>
+                                </select>        rows per page
+                            </div>
+                            <div class="col-sm-5 right">
+                                <ul class="pagination">
+                                    <li>
+                                        <a href="#" aria-label="Previous">
+                                            <span aria-hidden="true"><img src="images/prev-icon.jpg" /></span>
+                                        </a>
+                                    </li>
+                                    <li><a href="#">1</a></li>
+                                    <li><a href="#">2</a></li>
+                                    <li><a href="#">3</a></li>
+                                    <li><a href="#">4</a></li>
+                                    <li><a href="#">5</a></li>
+                                    <li>
+                                        <a href="#" aria-label="Next">
+                                            <span aria-hidden="true"><img src="images/next-icon.jpg" /></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav> 
+                </div>
+                <div class="tab-pane " id="tab4">
+                    <div class="container-fluid">
+                        <h2 class="heading">Dummy Tab 4</h2>
+                        <div class="row top_row">
+                            <div class="col-sm-6">
+                                <div class="btn-toolbar">
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-danger noradius">Delete</a>
+                                    </div>
+                                    <div class="btn-group">
+                                        <a href="#" class="btn btn-success noradius">Some button</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 right">
+                                <div class="search">
+                                    <input type="text" placeholder="Search..." class="form-control" />
+                                </div>
+                                <ul class="list-inline">
+                                   <li><a href="#"><i class="fa fa-refresh"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-list-ul"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-sign-out"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="table-responsive table-height">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th><input type="checkbox" class="selectall" /></th>
+                                    <th>Domain name</th>
+                                    <th>Registrant</th>
+                                    <th>Registrant name</th>
+                                    <th>Email</th>
+                                    <th>Phone</th>
+                                    <th>Tech name</th>
+                                    <th>Tech email</th>
+                                    <th>MX records</th>                                        
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" /></td>
+                                    <td>domainname.com</td>
+                                    <td>Some Registrant</td>
+                                    <td>Registrant Name</td>
+                                    <td>email@example.com</td>
+                                    <td>+1 450 9999 999</td>
+                                    <td>tech_name</td>
+                                    <td>email@example.com</td>
+                                    <td>ASPMX.L.GOOGLE.COM</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <nav class="paginations" id="bottom">
+                        <div class="row">
+                            <div class="col-sm-7 left">
+                                Showing 1 to 15 of 100 rows
+                                <select class="form-control">
+                                    <option>30</option>
+                                    <option>60</option>
+                                    <option>100</option>
+                                    <option>All</option>
+                                </select>        rows per page
+                            </div>
+                            <div class="col-sm-5 right">
+                                <ul class="pagination">
+                                    <li>
+                                        <a href="#" aria-label="Previous">
+                                            <span aria-hidden="true"><img src="images/prev-icon.jpg" /></span>
+                                        </a>
+                                    </li>
+                                    <li><a href="#">1</a></li>
+                                    <li><a href="#">2</a></li>
+                                    <li><a href="#">3</a></li>
+                                    <li><a href="#">4</a></li>
+                                    <li><a href="#">5</a></li>
+                                    <li>
+                                        <a href="#" aria-label="Next">
+                                            <span aria-hidden="true"><img src="images/next-icon.jpg" /></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav> 
+                </div>
+            </div>
+        </main>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script>
+           
+            $('.selectall').click(function (event) {
+                if (this.checked) {
+                    // Iterate each checkbox
+                    $(':checkbox').each(function () {
+                        this.checked = true;
+                        $(this).closest("tr").addClass("checked");
+                    });
+                }
+                else {
+                    $(':checkbox').each(function () {
+                        this.checked = false;
+                        $(this).closest("tr").removeClass("checked");
+                    });
+                }
+            });
+            $(document).ready(function () {
+                $('table tbody input[type="checkbox"]').click(function () {
+                    if ($(this).prop("checked") == true) {
+                        $(this).closest("tr").addClass("checked");
+                    }
+                    else if ($(this).prop("checked") == false) {
+                        $(this).closest("tr").removeClass("checked");
+                    }
+                });
+            });
+            $('table tbody input[type="checkbox"]').click(function () {
+                $(".selectall").removeAttr('checked');
+                $(".selectall").prop('checked', false);
+            });
+            
+            function tabsClick(){
+                $('input[type="checkbox"]').removeAttr('checked');
+                $("table tbody tr").removeClass("checked");
+            }           
+            
+        </script>
+    </body>
+</html>
